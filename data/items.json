@@ -1,0 +1,16 @@
+{
+	"0":
+	{
+		"name":				"Water",
+		"description":		"The ordinary H20",
+		"type": 			"raw_material",
+		"max_stack_size": 	"100"
+	},
+	"1":
+	{
+		"name":				"Iron",
+		"description":		"The Iron(Fe) we all know and love",
+		"type": 			"raw_material",
+		"max_stack_size": 	"100"
+	}
+}
